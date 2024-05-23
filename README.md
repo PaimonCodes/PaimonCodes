@@ -1,12 +1,12 @@
 <h2 align="center">Nice to meet you! ノノ✨</h2>
 
-<div align="center">
+<p align="center">
   <img src="assets/bongo-cat.gif" alt="Bongo Cat GIF">
   <br><br>
   <a href="https://www.linkedin.com/in/paulo-batitay/">
     <img src="https://img.shields.io/badge/linkedin-%233D67BA.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</div>
+</p>
 
 ---
 
