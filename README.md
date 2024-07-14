@@ -26,12 +26,7 @@
 
 ---
 
-<p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=PaimonCodes&show_icons=true&theme=dracula" alt="GitHub Stats">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaimonCodes&layout=donut&theme=dracula" alt="Languages">
-</p>
-
-<h3 align="center">OS</h3>
+<h3 align="center">Development Environments</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/EndeavourOS-%23A834EB.svg?style=for-the-badge&logo=endeavouros&logoColor=white" alt=EndeavourOS>
   <img src="https://img.shields.io/badge/MacOS-%23B03359.svg?style=for-the-badge&logo=macos&logoColor=white" alt=MacOS>
